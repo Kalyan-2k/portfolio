@@ -1,3 +1,7 @@
+# Use this link to view the site on the web.
+
+https://portfolio-kalyan.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
